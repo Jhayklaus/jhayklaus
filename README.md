@@ -36,17 +36,6 @@
 - **Robust auth** (JWT), role-aware UX, and **state management** that scales  
 - **A11y + performance** baked in from day one
 
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jhayklaus&show_icons=true&hide_title=true" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhayklaus&layout=compact" alt="Top languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=jhayklaus" alt="GitHub Streak" />
-</p>
-
 ## 🎯 Currently
 - Building **production-grade** frontends with **Next.js + TS**  
 - Doubling down on **design systems**, **DX**, and **data-heavy** experiences
