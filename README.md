@@ -1,4 +1,4 @@
-# Hi, I’m Jhay Klaus — Frontend Engineer
+# Hi, I’m Jamiu — Frontend Engineer
 
 I turn rough product ideas into clean, intuitive interfaces. Day-to-day: **TypeScript**, **Astro**, **React**, **Next.js**, and **Tailwind CSS**—with performance, accessibility, and maintainability baked in.
 
