@@ -4,12 +4,6 @@
   Frontend Engineer • TypeScript • React • Next.js • Tailwind CSS
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhayklaus&label=Profile%20Views&style=flat" alt="profile views" />
-  <a href="https://github.com/jhayklaus?tab=followers">
-    <img src="https://img.shields.io/github/followers/jhayklaus?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
 
 ---
 
@@ -31,14 +25,6 @@
   <img src="https://img.shields.io/badge/REST%20APIs-2F855A?logo=postman&logoColor=white" />
 </p>
 
-## 🧩 What I Ship
-- **Dashboard-first UIs** with crisp data viz and intuitive flows  
-- **Robust auth** (JWT), role-aware UX, and **state management** that scales  
-- **A11y + performance** baked in from day one
-
-## 🎯 Currently
-- Building **production-grade** frontends with **Next.js + TS**  
-- Doubling down on **design systems**, **DX**, and **data-heavy** experiences
 
 ## 🤝 Let’s Collaborate 
 - 📫 **Email:** <jamiumoyosore02@gmail.com>  
